@@ -1,0 +1,43 @@
+[{
+		"text": "Quelle est la couleur du cheval blanc d'Henri 4 ?",
+		"level": "BEGINNER",
+		"answers": [{
+				"text": "Blanc",
+				"correct": true
+			},
+			{
+				"text": "Bleu",
+				"correct": false
+			},
+			{
+				"text": "Rose",
+				"correct": false
+			},
+			{
+				"text": "D, la réponse D",
+				"correct": false
+			}
+		]
+	},
+	{
+		"text": "Quelle est la couleur du cheval bleu de François 1er?",
+		"level": "BEGINNER",
+		"answers": [{
+				"text": "Bleu",
+				"correct": true
+			},
+			{
+				"text": "Turquoise",
+				"correct": true
+			},
+			{
+				"text": "Rose",
+				"correct": false
+			},
+			{
+				"text": "D, la réponse D",
+				"correct": false
+			}
+		]
+	}
+]
